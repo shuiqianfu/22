@@ -116,4 +116,5 @@ if __name__ == "__main__":
     print("示例2路径:", path2)
     print("格式化输出:")
     for coord in format_output(path2):
-        print(coord)
+        print(coords)
+
